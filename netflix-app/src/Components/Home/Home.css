@@ -1,0 +1,27 @@
+.movieList{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+body{
+    background-color: rgb(19, 19, 20);
+}
+/* .CardBtn:hover{
+    background-color: maroon;
+    width: 400px;
+} */
+
+
+.movieInfo{
+    background-color: maroon;
+    width: 500px;
+    height: 500px;
+}
+
+
+.btn{
+    background-color: maroon;
+    color: white;
+    width:250px;
+    height:80px;
+}

@@ -1,0 +1,13 @@
+.cardsearch{
+    display: flex;
+    background-color: rgb(28, 27, 27);
+    flex-direction: row;
+    padding: 10px;
+    margin: 0;
+}
+
+.searchDetails
+{
+    margin: 20px;
+    color: white;
+}

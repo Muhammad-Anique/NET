@@ -1,0 +1,130 @@
+.page{
+    background-color:none;
+    width: 98.5vw;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    background-color:none;
+    width: 60vw;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contactdiv{
+    background-color: rgb(59, 56, 57);
+    width: 50%;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    height: 96%;
+
+}
+
+.Infodiv{
+    background-color: #E50914;
+    padding: 30px;
+    width: 43%;
+    border-radius: 10px;
+    height: 100%;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    padding: 10px;
+
+}
+
+.fle{
+    display: flex;
+    flex-direction: column;
+}
+
+h2{
+    color: white;
+    margin-bottom: 20px;
+
+}
+
+.tf{
+    background:none;
+    color: white;
+    border: 0;
+    border-bottom: 2px solid white;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 4px;
+
+}
+.tf:hover{
+    border:0;
+    border-bottom: 2px solid  #E50914;
+}
+.msg{
+    background:none;
+    display: flex;
+    justify-content:baseline;
+    color: white;
+    height: 100px;
+    border: 2px solid white;
+    border-radius: 3px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 4px;
+}
+.msg:hover{
+    border: 2px solid  #E50914;
+}
+
+.sendbtn{
+    background-color: #E50914;
+    width:110px;
+    height: 50px;
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px; 
+    box-shadow: white;
+    padding: 5px;
+    align-self: center;
+}
+.sendbtn:hover{
+    border: 2px solid white;
+}
+
+
+.infoline{
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-left: 15px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.mg{
+margin-right:4px;
+font-size: 30px;
+}
+
+.circle{
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(161, 71, 74, 0.4);
+    width: 50px;
+    height: 50px;
+    margin-right:15px;
+    padding: 15px;
+}
+
+p{
+    color: white;
+}
+
